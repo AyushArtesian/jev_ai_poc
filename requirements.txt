@@ -1,0 +1,3 @@
+streamlit
+typesafe-sdk
+python-dotenv
